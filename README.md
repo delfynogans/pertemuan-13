@@ -1,7 +1,10 @@
-### Nama    : Muhamad Sofhian Permana
-### Kelas   : TI.22.C1
-### Prodi   : Teknik Informatika
-### Matkul  : Bahasa Pemrograman
+## Profil
+| Variable | Isi |
+| -------- | --- |
+| **Nama** |Delfyno dwi pastyo |
+| **NIM** | 312310480 |
+| **Kelas** | TI.23.A.5 |
+| **Mata Kuliah** | Bahasa Pemrograman |
 
 # Praktikum Lab 9 Pertemuan 13 Penanganan Eksepsi
 
